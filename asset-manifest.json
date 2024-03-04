@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-hw1-func/static/css/main.cb1348cc.css",
+    "main.js": "/react-hw1-func/static/js/main.03011553.js",
+    "static/js/453.d850772c.chunk.js": "/react-hw1-func/static/js/453.d850772c.chunk.js",
+    "static/media/item-blue.jpg": "/react-hw1-func/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "index.html": "/react-hw1-func/index.html",
+    "main.cb1348cc.css.map": "/react-hw1-func/static/css/main.cb1348cc.css.map",
+    "main.03011553.js.map": "/react-hw1-func/static/js/main.03011553.js.map",
+    "453.d850772c.chunk.js.map": "/react-hw1-func/static/js/453.d850772c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1348cc.css",
+    "static/js/main.03011553.js"
+  ]
+}
